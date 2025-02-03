@@ -9,3 +9,5 @@ msg=t1+n1+t2+n2+t3+mul
 print(msg)
 print(msg)
 print(msg)
+print(msg)
+print(msg)
