@@ -1,4 +1,4 @@
-n1=5
+n1=54
 n2=14
 t1="La multiplicacion de "
 t2=" * "
